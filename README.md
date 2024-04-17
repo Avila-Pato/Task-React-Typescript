@@ -17,8 +17,3 @@ TypeScript es un superset de JavaScript que añade un sistema de tipos estático
 
 JavaScript es el lenguaje de programación fundamental para el desarrollo web. Aunque TypeScript es utilizado en este proyecto, JavaScript sigue siendo esencial para algunas partes del código y para la interoperabilidad con otras bibliotecas y herramientas.
 
-## Tareas Esenciales
-
-- **Añadir Tareas:** Permite al usuario añadir nuevas tareas a la lista.
-- **Marcar como Completadas:** Permite al usuario marcar las tareas como completadas.
-- **Eliminar Tareas:** Permite al usuario eliminar tareas de la lista.
